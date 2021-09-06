@@ -1,1 +1,1 @@
-Python implementation of a simple DNN
+Python implementation of a simple DNN for binary classification
